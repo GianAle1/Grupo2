@@ -62,5 +62,3 @@ form.addEventListener("submit", e=>{
         parrafo.innerHTML = "Enviado";
     }
 })
-
-
